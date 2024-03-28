@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+#poze {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  border-radius: 8%;
+}
+
+.background {
+  color: 0xFF430A5D;
+}
+
+body {
+  /* background-color: rgb(140 106 93); */
+  /* background-color: rgb(95 55 75); */
+  /* background-color: rgb(67 10 93); */
+  background-color: rgb(238 228 177);
+}
+
+h1 {
+  color: rgb(95 55 75);
+}
