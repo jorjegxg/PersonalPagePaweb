@@ -33,3 +33,15 @@ ul {
   font-weight: 700;
   font-style: normal;
 }
+
+.hobbies-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.hobbies-list li {
+  padding-left: 20px;
+  background: url("../347419698_256160263740148_8612167296898339025_n.jpg") no-repeat left center;
+  background-size: 16px 16px;
+  line-height: 20px;
+}
