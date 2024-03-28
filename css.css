@@ -25,3 +25,11 @@ body {
 h1 {
   color: rgb(95 55 75);
 }
+
+h1,
+h5,
+ul {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
